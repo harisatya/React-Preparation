@@ -61,7 +61,7 @@ function Feedback(props) {
                 <FormGroup>
                     <Col sm={8}>
                         <Button variant="primary" onClick={feedbackSubmitHandler} >
-                            Submit Feedback
+                            Submit Feedbacks
                         </Button>
                     </Col>
                 </FormGroup>
